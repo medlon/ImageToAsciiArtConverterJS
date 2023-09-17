@@ -1,5 +1,5 @@
-Image To Ascii Art Converter - JavaScript  
-How to use:
+# Image To Ascii Art Converter - JavaScript  
+## How to use:
 
     Open index.js.
     Edit the path to the image you want to convert.
