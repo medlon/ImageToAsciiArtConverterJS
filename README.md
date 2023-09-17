@@ -1,4 +1,4 @@
-Image To Ascii Art Converter - JavaScript
+Image To Ascii Art Converter - JavaScript  
 How to use:
 
     Open index.js.
